@@ -1,2 +1,2 @@
-# 04_Pandas
+# HeroesOfPymoli
 Repository for Pandas Homework
